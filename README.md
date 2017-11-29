@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# MAGD 150 Assignments
 
-You can use the [editor on GitHub](https://github.com/NeitzelKI24/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+These are a few assignments from MAGD 150
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Assignment 4
 
-### Markdown
+The theme for the assignment was oceans of pizza, so I deicided to create a pizza fish. The pizza fish can be moved around with the arrow keys and flipped by clicking the mouse button. There are also bubbles that spawn and move up on the screen.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Assignment 5
 
-```markdown
-Syntax highlighted code block
+This program is a TV that can be turned on or off. It has two buttons that can change the channel up or down. The channels are basic shapes moving on the screen.
 
-# Header 1
-## Header 2
-### Header 3
+## Assignment 6
 
-- Bulleted
-- List
+This program has a rain cloud. Water drops appear from the cloud. This program also has ground created using two while loops.
 
-1. Numbered
-2. List
+## Assignment 7
 
-**Bold** and _Italic_ and `Code` text
+This program has a bunch of ballons flying around randomly. The ballons are connected by a line that can be moved around with the mouse.
 
-[Link](url) and ![Image](src)
-```
+## Assignment 8
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NeitzelKI24/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This program is a moving movie poster. There is moving text at the top and a moving UFO in the middle. It also saves the image as a PDF.
